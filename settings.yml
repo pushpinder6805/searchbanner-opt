@@ -13,7 +13,6 @@ plugin_outlet:
   type: enum
   choices:
     - above-main-container
-    - below-site-header
     - discovery-above
   description: |
     Select the plugin outlet where the search banner should appear:
